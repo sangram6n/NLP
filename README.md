@@ -11,10 +11,10 @@
 	5) Ensemble Techniques
 	
 # Evaluation Mtrices
-1)Accuracy
-2) Precision
-3) Recall
-4) F1-Score
+	1)Accuracy
+	2) Precision
+	3) Recall
+	4) F1-Score
 
 # Dataset
 	Collected the dataset from internet , there are 10200 observation in the data set
